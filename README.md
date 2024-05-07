@@ -108,7 +108,7 @@ Bundler's account: `0x0a4E15d25E97e747bD568979A3B7dbEb95970Eb3`
 The address of the entry point smart contract is the same on all EVM networks.
 | Address    | Version   | Commit    | Audited   |
 | :--------: | :-------: | :-------: | :-------: |
-| [0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789](https://blockscan.com/address/0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789) | 0.6.0 | [9b5f2e4](https://github.com/eth-infinitism/account-abstraction/commit/9b5f2e4bb30a81aa30761749d9e2e43fee64c768) | [April 2023](https://blog.openzeppelin.com/eip-4337-ethereum-account-abstraction-incremental-audit)
+| [0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789](https://contractscan.xyz/contract/0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789) | 0.6.0 | [9b5f2e4](https://github.com/eth-infinitism/account-abstraction/commit/9b5f2e4bb30a81aa30761749d9e2e43fee64c768) | [April 2023](https://blog.openzeppelin.com/eip-4337-ethereum-account-abstraction-incremental-audit)
 
 ## Paymasters and account factories
 
